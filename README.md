@@ -1,5 +1,8 @@
 # Structural Optimization & Lightweighting of an Industrial Robot Arm Bracket
 
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+
 This repository contains the CAD models, FEA simulation results for a topology optimized robot arm bracket under a **500 N peak dynamic load**.
 
 ## 📌 Project Overview
