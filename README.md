@@ -28,3 +28,4 @@ This repository contains the CAD models, FEA simulation results for a topology o
 * `/Report`: Complete 26 page engineering report.
 * `/CAD`: SolidWorks (.SLDPRT) and neutral (.STEP) exchange models for both designs.
 * `/Drawings`: Manufacturing drawings.
+* * `/Media` : High resolution stress plots and optimization density maps.
